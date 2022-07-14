@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JoseBento98
+- 👋 Hi, I’m Jose Bento
 - 👀 I’m interested in app creation
 - 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on learning and improving my codes
