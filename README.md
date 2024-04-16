@@ -1,8 +1,6 @@
 ## Olá, eu sou Jose Bento!
 
-- 👀 Meus Interesses: Melhorar a qualidade do meu Desenvolvimento e de meus Códigos.
-- 🌱 Atualmente estou aprimorando meus conhecimentos 
-- 💞️ procuro colaborar compartilhando conheciemntos e melhorando meus códigos.
+Sou um estudante dedicado de Análise e Desenvolvimento de Sistemas, com uma paixão por tecnologia e um desejo ardente de embarcar em minha primeira oportunidade profissional em TI. Estou nos momentos finais da minha graduação, ansioso para aplicar os conhecimentos adquiridos em um ambiente real de trabalho. Estou aberto a explorar diversas áreas dentro da tecnologia para ganhar experiência e contribuir de forma significativa para uma equipe dinâmica e inovadora. Determinado, proativo e sempre pronto para aprender, estou ansioso para enfrentar desafios e crescer profissionalmente neste empolgante segmento.
 
 
 <div align="center">
