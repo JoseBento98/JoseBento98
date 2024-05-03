@@ -5,7 +5,7 @@ Sou um estudante dedicado de Análise e Desenvolvimento de Sistemas, com uma pai
 
 <div align="center">
   <a href="https://github.com/JoseBento98">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=JoseBento98&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+  <!--img height="150em" src="https://github-readme-stats.vercel.app/api?username=JoseBento98&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/-->
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseBento98&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
