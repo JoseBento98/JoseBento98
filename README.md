@@ -1,32 +1,22 @@
-## Olá, eu sou Jose Bento!
+### Olá, eu sou José Luiz D. Bento (Luiz) 👋
 
-Sou um estudante dedicado de Análise e Desenvolvimento de Sistemas, com uma paixão por tecnologia e um desejo ardente de embarcar em minha primeira oportunidade profissional em TI. Estou nos momentos finais da minha graduação, ansioso para aplicar os conhecimentos adquiridos em um ambiente real de trabalho. Estou disponivel a explorar diversas áreas dentro da tecnologia para ganhar experiência e contribuir de forma significativa para uma equipe dinâmica e inovadora. Determinado, proativo e sempre pronto para aprender, estou ansioso para enfrentar desafios e crescer profissionalmente neste empolgante segmento.
+✨ **Tech Lead** na [DIO](https://digitalinnovation.one/) e entusiasta de tecnologia e educação.
 
+🏢 **Atuação Profissional**
+- 🚀 Sou um profissional dedicado com uma profunda paixão por tecnologia e uma forte motivação para iniciar minha carreira em TI. Estou ansioso para aplicar meus conhecimentos em um ambiente de trabalho real. Aberto a explorar diversas áreas dentro da tecnologia, busco ganhar experiência e contribuir significativamente para uma equipe dinâmica e inovadora. Sou determinado, proativo e sempre pronto para aprender, ansioso para enfrentar desafios e crescer profissionalmente neste fascinante segmento.
+- 🎓 Tecnologo em Analise e Desenvolvimento de sistemas na [UNINASSAU - PE](https://www.uninassau.edu.br/)
 
-<div align="center">
-  <a href="https://github.com/JoseBento98">
-  <!--img height="150em" src="https://github-readme-stats.vercel.app/api?username=JoseBento98&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/-->
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseBento98&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
+<!--📱 **Especialidades**
+- 📚 Pergunte-me sobre Java, Kotlin e desenvolvimento Mobile para Android! -->
 
-  <div style="display: inline_block"><br>
-    Tecnologias que eu Domino <br>
-    <img align="center" alt="Rafa-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-    
-  
-   
- 
-    
- 
- ##
-    
-<div>
-  Meus Contatos <br>
-  <a href="https://www.instagram.com/jl.bento/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:jldbento@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/jos%C3%A9-bento-a9071523a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-<div/>
-  
+### 📊 Estatísticas no GitHub
 
-    
-    
+![JoseBento98's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoseBento98&show_icons=true&theme=dracula)
+
+### 📌 Projetos em Destaque
+
+<!--[![Readme Card](LinkGithub)](Link GitHub) -->
+
+### 🚀 Linguagens Mais Usadas
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoseBento98&layout=compact)
