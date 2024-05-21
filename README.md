@@ -10,6 +10,7 @@ Sou um estudante dedicado de Análise e Desenvolvimento de Sistemas, com uma pai
 </div>
 
   <div style="display: inline_block"><br>
+    Tecnologias que eu Domino
     <img align="center" alt="Rafa-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   
    
