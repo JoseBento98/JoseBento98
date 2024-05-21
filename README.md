@@ -2,7 +2,7 @@
 
 <!--✨ **Cargo** na [Empresa](link daa empresa) e entusiasta de tecnologia e educação. -->
 
-🏢 **Atuação Profissional**
+🏢 **Resumo Profissional**
 - 🚀 Sou um profissional dedicado com uma profunda paixão por tecnologia e uma forte motivação para iniciar minha carreira em TI. Estou ansioso para aplicar meus conhecimentos em um ambiente de trabalho real. Aberto a explorar diversas áreas dentro da tecnologia, busco ganhar experiência e contribuir significativamente para uma equipe dinâmica e inovadora. Sou determinado, proativo e sempre pronto para aprender, ansioso para enfrentar desafios e crescer profissionalmente neste fascinante segmento.
 - 🎓 Tecnologo em Analise e Desenvolvimento de sistemas na [UNINASSAU - PE](https://www.uninassau.edu.br/)
 
