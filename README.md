@@ -20,3 +20,10 @@
 ### 🚀 Linguagens Mais Usadas
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoseBento98&layout=compact)
+
+
+
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{JoseBento98}/count.svg" /></p> 
+<br>
+</div>
